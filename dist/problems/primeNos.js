@@ -17,4 +17,3 @@ function findPrimeNumbers(num) {
     console.log(primeNos);
 }
 findPrimeNumbers(100);
-//# sourceMappingURL=primeNos.js.map

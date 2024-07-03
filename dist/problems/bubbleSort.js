@@ -12,4 +12,3 @@ function sort(numbers) {
     console.log(numbers);
 }
 sort([4, 8, 2, 71, 0, 4, 9]);
-//# sourceMappingURL=bubbleSort.js.map

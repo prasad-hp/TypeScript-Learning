@@ -9,4 +9,3 @@ console.log("checking includes", another.includes("world"));
 console.log("Replacing", message.replace("Hello", "hi"));
 console.log(message);
 console.log("Trim at both ends", another.trim());
-//# sourceMappingURL=index.js.map

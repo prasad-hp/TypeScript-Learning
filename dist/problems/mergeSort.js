@@ -27,4 +27,3 @@ function merge(first, last) {
 }
 const output = mergeSort([5, 8, 1, 36, 12, 92, 4]);
 console.log(output);
-//# sourceMappingURL=mergeSort.js.map

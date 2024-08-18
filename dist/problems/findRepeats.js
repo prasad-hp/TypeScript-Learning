@@ -6,7 +6,7 @@ function findDuplicate(arr) {
         return repeates;
     }
     for (let i = 0; i < arr.length; i++) {
-        for (let j = 0; j <= temp.length; j++) {
+        for (let j = 0; j < temp.length; j++) {
             if (temp[j] === arr[i] && !repeates.includes(arr[i])) {
                 repeates.push(arr[i]);
             }
